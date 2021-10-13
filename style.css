@@ -133,8 +133,8 @@ main {
 .section-2{
     display: flex;
     height: 300px;
-    justify-content: center;
     align-items: center;
+    justify-content: center;
     background-color: #e5e7eb;
     padding: 0 20%;
     flex-shrink: 0;
